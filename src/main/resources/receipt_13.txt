@@ -1,0 +1,4 @@
+Bill for order 13
+Client Jon Doe with id 1 bought
+3 products of type rock with price 10
+Total 30
